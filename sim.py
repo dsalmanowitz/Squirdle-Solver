@@ -49,7 +49,7 @@ class Simulation(Squirdle):
             return Feedback.YELLOW
 
 if __name__ == '__main__':
-    mode = GameMode.CLASSIC
+    mode = GameMode.STATS
     s = Simulation(mode)
     results = pd.DataFrame(columns=['Name', 'Num', 'Guesses'])
     for name in s.full_dex['Name']:

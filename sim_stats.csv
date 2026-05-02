@@ -2,42 +2,42 @@ Name,Num,Guesses
 Bulbasaur,3,Castform; Ditto; Bulbasaur
 Ivysaur,3,Castform; Prinplup; Ivysaur
 Venusaur,3,Castform; Mew; Venusaur
-Venusaur Mega,3,Castform; Mew; Venusaur Mega
+Mega Venusaur,3,Castform; Mew; Mega Venusaur
 Charmander,3,Castform; Ditto; Charmander
 Charmeleon,3,Castform; Frogadier; Charmeleon
 Charizard,3,Castform; Mew; Charizard
-Charizard Mega X,3,Castform; Mew; Charizard Mega X
-Charizard Mega Y,3,Castform; Mew; Charizard Mega Y
+Mega Charizard X,3,Castform; Mew; Mega Charizard X
+Mega Charizard Y,3,Castform; Mew; Mega Charizard Y
 Squirtle,3,Castform; Ditto; Squirtle
-Wartortle,3,Castform; Corsola Galarian; Wartortle
+Wartortle,3,Castform; Galarian Corsola; Wartortle
 Blastoise,3,Castform; Mew; Blastoise
-Blastoise Mega,4,Castform; Mew; Altaria Mega; Blastoise Mega
+Mega Blastoise,4,Castform; Mew; Mega Altaria; Mega Blastoise
 Caterpie,4,Castform; Ditto; Cosmog; Caterpie
 Metapod,4,Castform; Ditto; Cascoon; Metapod
 Butterfree,2,Castform; Butterfree
 Weedle,4,Castform; Ditto; Bunnelby; Weedle
 Kakuna,4,Castform; Ditto; Spewpa; Kakuna
 Beedrill,3,Castform; Togedemaru; Beedrill
-Beedrill Mega,3,Castform; Togedemaru; Beedrill Mega
+Mega Beedrill,3,Castform; Togedemaru; Mega Beedrill
 Pidgey,4,Castform; Ditto; Bunnelby; Pidgey
 Pidgeotto,4,Castform; Poliwag; Stunky; Pidgeotto
 Pidgeot,2,Castform; Pidgeot
-Pidgeot Mega,5,Castform; Mew; Sandy Shocks; Naganadel; Pidgeot Mega
+Mega Pidgeot,5,Castform; Mew; Sandy Shocks; Naganadel; Mega Pidgeot
 Rattata,3,Castform; Poliwag; Rattata
-Rattata Alolan,4,Castform; Poliwag; Rattata; Rattata Alolan
-Raticate,3,Castform; Dugtrio Alolan; Raticate
-Raticate Alolan,3,Castform; Maushold Family Of Three; Raticate Alolan
+Alolan Rattata,4,Castform; Poliwag; Rattata; Alolan Rattata
+Raticate,3,Castform; Alolan Dugtrio; Raticate
+Alolan Raticate,3,Castform; Maushold Family of Three; Alolan Raticate
 Spearow,3,Castform; Wattrel; Spearow
 Fearow,3,Castform; Fletchinder; Fearow
 Ekans,3,Castform; Ditto; Ekans
 Arbok,3,Castform; Togedemaru; Arbok
 Pikachu,3,Castform; Boltund; Pikachu
 Raichu,3,Castform; Electabuzz; Raichu
-Raichu Alolan,3,Castform; Electabuzz; Raichu Alolan
-Sandshrew,4,Castform; Tyrunt; Geodude Alolan; Sandshrew
-Sandshrew Alolan,4,Castform; Tyrunt; Geodude Alolan; Sandshrew Alolan
+Alolan Raichu,3,Castform; Electabuzz; Alolan Raichu
+Sandshrew,4,Castform; Tyrunt; Alolan Geodude; Sandshrew
+Alolan Sandshrew,4,Castform; Tyrunt; Alolan Geodude; Alolan Sandshrew
 Sandslash,3,Castform; Donphan; Sandslash
-Sandslash Alolan,3,Castform; Donphan; Sandslash Alolan
+Alolan Sandslash,3,Castform; Donphan; Alolan Sandslash
 Nidoran♀,4,Castform; Ditto; Cascoon; Nidoran♀
 Nidorina,3,Castform; Gulpin; Nidorina
 Nidoqueen,4,Castform; Mew; Glalie; Nidoqueen
@@ -47,13 +47,13 @@ Nidoking,4,Castform; Mew; Quaquaval; Nidoking
 Clefairy,3,Castform; Gulpin; Clefairy
 Clefable,2,Castform; Clefable
 Vulpix,3,Castform; Ditto; Vulpix
-Vulpix Alolan,4,Castform; Ditto; Vulpix; Vulpix Alolan
+Alolan Vulpix,4,Castform; Ditto; Vulpix; Alolan Vulpix
 Ninetales,3,Castform; Mew; Ninetales
-Ninetales Alolan,3,Castform; Sigilyph; Ninetales Alolan
+Alolan Ninetales,3,Castform; Sigilyph; Alolan Ninetales
 Jigglypuff,3,Castform; Shellos; Jigglypuff
 Wigglytuff,2,Castform; Wigglytuff
 Zubat,4,Castform; Ditto; Bunnelby; Zubat
-Golbat,3,Castform; Maushold Family Of Three; Golbat
+Golbat,3,Castform; Maushold Family of Three; Golbat
 Oddish,3,Castform; Poltchageist; Oddish
 Gloom,2,Castform; Gloom
 Vileplume,4,Castform; Type: Null; Ampharos; Vileplume
@@ -62,119 +62,119 @@ Parasect,3,Castform; Marowak; Parasect
 Venonat,4,Castform; Ditto; Larvitar; Venonat
 Venomoth,3,Castform; Thievul; Venomoth
 Diglett,3,Castform; Poliwag; Diglett
-Diglett Alolan,3,Castform; Poliwag; Diglett Alolan
-Dugtrio,3,Castform; Dugtrio Alolan; Dugtrio
-Dugtrio Alolan,2,Castform; Dugtrio Alolan
+Alolan Diglett,3,Castform; Poliwag; Alolan Diglett
+Dugtrio,3,Castform; Alolan Dugtrio; Dugtrio
+Alolan Dugtrio,2,Castform; Alolan Dugtrio
 Meowth,3,Castform; Poliwag; Meowth
-Meowth Alolan,3,Castform; Poliwag; Meowth Alolan
-Meowth Galarian,4,Castform; Ditto; Chewtle; Meowth Galarian
+Alolan Meowth,3,Castform; Poliwag; Alolan Meowth
+Galarian Meowth,4,Castform; Ditto; Chewtle; Galarian Meowth
 Persian,2,Castform; Persian
-Persian Alolan,3,Castform; Frogadier; Persian Alolan
+Alolan Persian,3,Castform; Frogadier; Alolan Persian
 Psyduck,4,Castform; Ditto; Skiddo; Psyduck
 Golduck,4,Castform; Mew; Glalie; Golduck
 Mankey,2,Castform; Mankey
-Primeape,3,Castform; Dugtrio Alolan; Primeape
+Primeape,3,Castform; Alolan Dugtrio; Primeape
 Growlithe,2,Castform; Growlithe
-Growlithe Hisuian,3,Castform; Karrablast; Growlithe Hisuian
+Hisuian Growlithe,3,Castform; Karrablast; Hisuian Growlithe
 Arcanine,3,Castform; Mew; Arcanine
-Arcanine Hisuian,4,Castform; Mew; Quaquaval; Arcanine Hisuian
+Hisuian Arcanine,4,Castform; Mew; Quaquaval; Hisuian Arcanine
 Poliwag,2,Castform; Poliwag
 Poliwhirl,3,Castform; Poliwag; Poliwhirl
 Poliwrath,2,Castform; Poliwrath
 Abra,4,Castform; Frogadier; Gastly; Abra
 Kadabra,3,Castform; Ribombee; Kadabra
 Alakazam,3,Castform; Mismagius; Alakazam
-Alakazam Mega,3,Castform; Mismagius; Alakazam Mega
+Mega Alakazam,3,Castform; Mismagius; Mega Alakazam
 Machop,3,Castform; Rufflet; Machop
 Machoke,2,Castform; Machoke
 Machamp,3,Castform; Gourgeist Super Size; Machamp
 Bellsprout,2,Castform; Bellsprout
 Weepinbell,2,Castform; Weepinbell
 Victreebel,2,Castform; Victreebel
-Victreebel Mega,4,Castform; Decidueye; Volcanion; Victreebel Mega
+Mega Victreebel,4,Castform; Decidueye; Volcanion; Mega Victreebel
 Tentacool,2,Castform; Tentacool
 Tentacruel,2,Castform; Tentacruel
-Geodude,4,Castform; Tyrunt; Geodude Alolan; Geodude
-Geodude Alolan,3,Castform; Tyrunt; Geodude Alolan
+Geodude,4,Castform; Tyrunt; Alolan Geodude; Geodude
+Alolan Geodude,3,Castform; Tyrunt; Alolan Geodude
 Graveler,3,Castform; Tyrunt; Graveler
-Graveler Alolan,4,Castform; Tyrunt; Graveler; Graveler Alolan
+Alolan Graveler,4,Castform; Tyrunt; Graveler; Alolan Graveler
 Golem,3,Castform; Donphan; Golem
-Golem Alolan,4,Castform; Donphan; Golem; Golem Alolan
+Alolan Golem,4,Castform; Donphan; Golem; Alolan Golem
 Ponyta,3,Castform; Fletchinder; Ponyta
-Ponyta Galarian,4,Castform; Fletchinder; Ponyta; Ponyta Galarian
+Galarian Ponyta,4,Castform; Fletchinder; Ponyta; Galarian Ponyta
 Rapidash,2,Castform; Rapidash
-Rapidash Galarian,3,Castform; Rapidash; Rapidash Galarian
+Galarian Rapidash,3,Castform; Rapidash; Galarian Rapidash
 Slowpoke,3,Castform; Shellos; Slowpoke
-Slowpoke Galarian,4,Castform; Shellos; Slowpoke; Slowpoke Galarian
-Slowbro,4,Castform; Type: Null; Slowbro Mega; Slowbro
-Slowbro Mega,3,Castform; Type: Null; Slowbro Mega
-Slowbro Galarian,2,Castform; Slowbro Galarian
+Galarian Slowpoke,4,Castform; Shellos; Slowpoke; Galarian Slowpoke
+Slowbro,4,Castform; Type: Null; Mega Slowbro; Slowbro
+Mega Slowbro,3,Castform; Type: Null; Mega Slowbro
+Galarian Slowbro,2,Castform; Galarian Slowbro
 Magnemite,2,Castform; Magnemite
 Magneton,2,Castform; Magneton
-Farfetch'D,4,Castform; Karrablast; Larvesta; Farfetch'D
-Farfetch'D Galarian,4,Castform; Karrablast; Teddiursa; Farfetch'D Galarian
+Farfetch'd,4,Castform; Karrablast; Larvesta; Farfetch'd
+Galarian Farfetch'd,4,Castform; Karrablast; Teddiursa; Galarian Farfetch'd
 Doduo,4,Castform; Fletchinder; Trumbeak; Doduo
 Dodrio,2,Castform; Dodrio
 Seel,3,Castform; Baltoy; Seel
 Dewgong,2,Castform; Dewgong
 Grimer,3,Castform; Cufant; Grimer
-Grimer Alolan,4,Castform; Cufant; Grimer; Grimer Alolan
+Alolan Grimer,4,Castform; Cufant; Grimer; Alolan Grimer
 Muk,3,Castform; Gourgeist Super Size; Muk
-Muk Alolan,4,Castform; Gourgeist Super Size; Muk; Muk Alolan
+Alolan Muk,4,Castform; Gourgeist Super Size; Muk; Alolan Muk
 Shellder,3,Castform; Cubone; Shellder
 Cloyster,2,Castform; Cloyster
 Gastly,3,Castform; Frogadier; Gastly
 Haunter,4,Castform; Frogadier; Gastly; Haunter
 Gengar,3,Castform; Mismagius; Gengar
-Gengar Mega,3,Castform; Rotom Heat; Gengar Mega
+Mega Gengar,3,Castform; Heat Rotom; Mega Gengar
 Onix,2,Castform; Onix
 Drowzee,3,Castform; Flabébé; Drowzee
 Hypno,2,Castform; Hypno
 Krabby,3,Castform; Tyrunt; Krabby
-Kingler,3,Castform; Qwilfish Hisuian; Kingler
+Kingler,3,Castform; Hisuian Qwilfish; Kingler
 Voltorb,3,Castform; Poliwag; Voltorb
-Voltorb Hisuian,4,Castform; Poliwag; Voltorb; Voltorb Hisuian
+Hisuian Voltorb,4,Castform; Poliwag; Voltorb; Hisuian Voltorb
 Electrode,2,Castform; Electrode
-Electrode Hisuian,3,Castform; Electrode; Electrode Hisuian
+Hisuian Electrode,3,Castform; Electrode; Hisuian Electrode
 Exeggcute,3,Castform; Cubone; Exeggcute
 Exeggutor,3,Castform; Type: Null; Exeggutor
-Exeggutor Alolan,3,Castform; Type: Null; Exeggutor Alolan
+Alolan Exeggutor,3,Castform; Type: Null; Alolan Exeggutor
 Cubone,2,Castform; Cubone
 Marowak,2,Castform; Marowak
-Marowak Alolan,3,Castform; Marowak; Marowak Alolan
+Alolan Marowak,3,Castform; Marowak; Alolan Marowak
 Hitmonlee,3,Castform; Togedemaru; Hitmonlee
 Hitmonchan,3,Castform; Lopunny; Hitmonchan
 Lickitung,3,Castform; Audino; Lickitung
 Koffing,3,Castform; Cubone; Koffing
 Weezing,2,Castform; Weezing
-Weezing Galarian,3,Castform; Weezing; Weezing Galarian
+Galarian Weezing,3,Castform; Weezing; Galarian Weezing
 Rhyhorn,3,Castform; Donphan; Rhyhorn
 Rhydon,3,Castform; Donphan; Rhydon
 Chansey,2,Castform; Chansey
 Tangela,3,Castform; Omanyte; Tangela
 Kangaskhan,3,Castform; Ceruledge; Kangaskhan
-Kangaskhan Mega,3,Castform; Ceruledge; Kangaskhan Mega
+Mega Kangaskhan,3,Castform; Ceruledge; Mega Kangaskhan
 Horsea,2,Castform; Horsea
 Seadra,2,Castform; Seadra
 Goldeen,4,Castform; Ditto; Binacle; Goldeen
 Seaking,3,Castform; Clodsire; Seaking
 Staryu,2,Castform; Staryu
-Starmie,3,Castform; Medicham Mega; Starmie
+Starmie,3,Castform; Mega Medicham; Starmie
 Mr. Mime,3,Castform; Mismagius; Mr. Mime
-Mr. Mime Galarian,3,Castform; Mismagius; Mr. Mime Galarian
+Galarian Mr. Mime,3,Castform; Mismagius; Galarian Mr. Mime
 Scyther,3,Castform; Bombirdier; Scyther
 Jynx,3,Castform; Mismagius; Jynx
 Electabuzz,2,Castform; Electabuzz
 Magmar,3,Castform; Electabuzz; Magmar
 Pinsir,3,Castform; Kabutops; Pinsir
-Pinsir Mega,3,Castform; Lopunny; Pinsir Mega
+Mega Pinsir,3,Castform; Lopunny; Mega Pinsir
 Tauros,2,Castform; Tauros
 Tauros Combat Breed,3,Castform; Tauros; Tauros Combat Breed
 Tauros Blaze Breed,4,Castform; Tauros; Tauros Combat Breed; Tauros Blaze Breed
 Tauros Aqua Breed,5,Castform; Tauros; Tauros Combat Breed; Tauros Blaze Breed; Tauros Aqua Breed
 Magikarp,3,Castform; Poliwag; Magikarp
 Gyarados,3,Castform; Ceruledge; Gyarados
-Gyarados Mega,3,Castform; Iron Leaves; Gyarados Mega
+Mega Gyarados,3,Castform; Iron Leaves; Mega Gyarados
 Lapras,3,Castform; Type: Null; Lapras
 Ditto,2,Castform; Ditto
 Eevee,2,Castform; Eevee
@@ -187,29 +187,29 @@ Omastar,2,Castform; Omastar
 Kabuto,3,Castform; Tyrunt; Kabuto
 Kabutops,2,Castform; Kabutops
 Aerodactyl,2,Castform; Aerodactyl
-Aerodactyl Mega,3,Castform; Iron Leaves; Aerodactyl Mega
+Mega Aerodactyl,3,Castform; Iron Leaves; Mega Aerodactyl
 Snorlax,3,Castform; Clodsire; Snorlax
 Articuno,4,Castform; Mew; Blastoise; Articuno
-Articuno Galarian,3,Castform; Mew; Articuno Galarian
+Galarian Articuno,3,Castform; Mew; Galarian Articuno
 Zapdos,4,Castform; Mew; Charizard; Zapdos
-Zapdos Galarian,3,Castform; Mew; Zapdos Galarian
+Galarian Zapdos,3,Castform; Mew; Galarian Zapdos
 Moltres,3,Castform; Mew; Moltres
-Moltres Galarian,3,Castform; Mew; Moltres Galarian
+Galarian Moltres,3,Castform; Mew; Galarian Moltres
 Dratini,4,Castform; Ditto; Charmander; Dratini
 Dragonair,2,Castform; Dragonair
 Dragonite,3,Castform; Mew; Dragonite
-Dragonite Mega,3,Castform; Mew; Dragonite Mega
+Mega Dragonite,3,Castform; Mew; Mega Dragonite
 Mewtwo,3,Castform; Mew; Mewtwo
-Mewtwo Mega X,3,Castform; Mew; Mewtwo Mega X
-Mewtwo Mega Y,3,Castform; Enamorus Incarnate Forme; Mewtwo Mega Y
+Mega Mewtwo X,3,Castform; Mew; Mega Mewtwo X
+Mega Mewtwo Y,3,Castform; Enamorus Incarnate Forme; Mega Mewtwo Y
 Mew,2,Castform; Mew
 Chikorita,4,Castform; Ditto; Bulbasaur; Chikorita
-Bayleef,3,Castform; Corsola Galarian; Bayleef
+Bayleef,3,Castform; Galarian Corsola; Bayleef
 Meganium,3,Castform; Mew; Meganium
 Cyndaquil,4,Castform; Ditto; Charmander; Cyndaquil
 Quilava,4,Castform; Frogadier; Charmeleon; Quilava
 Typhlosion,4,Castform; Mew; Charizard; Typhlosion
-Typhlosion Hisuian,3,Castform; Mew; Typhlosion Hisuian
+Hisuian Typhlosion,3,Castform; Mew; Hisuian Typhlosion
 Totodile,3,Castform; Ditto; Totodile
 Croconaw,4,Castform; Tyrunt; Quilladin; Croconaw
 Feraligatr,3,Castform; Mew; Feraligatr
@@ -234,7 +234,7 @@ Xatu,2,Castform; Xatu
 Mareep,3,Castform; Ditto; Mareep
 Flaaffy,2,Castform; Flaaffy
 Ampharos,3,Castform; Type: Null; Ampharos
-Ampharos Mega,3,Castform; Type: Null; Ampharos Mega
+Mega Ampharos,3,Castform; Type: Null; Mega Ampharos
 Bellossom,3,Castform; Type: Null; Bellossom
 Marill,3,Castform; Gulpin; Marill
 Azumarill,3,Castform; Audino; Azumarill
@@ -248,13 +248,13 @@ Sunkern,4,Castform; Ditto; Cosmog; Sunkern
 Sunflora,3,Castform; Exploud; Sunflora
 Yanma,3,Castform; Frogadier; Yanma
 Wooper,3,Castform; Ditto; Wooper
-Wooper Paldean,4,Castform; Ditto; Wooper; Wooper Paldean
+Paldean Wooper,4,Castform; Ditto; Wooper; Paldean Wooper
 Quagsire,4,Castform; Donphan; Dondozo; Quagsire
 Espeon,4,Castform; Mismagius; Jolteon; Espeon
 Umbreon,3,Castform; Audino; Umbreon
 Murkrow,4,Castform; Boltund; Torracat; Murkrow
 Slowking,3,Castform; Type: Null; Slowking
-Slowking Galarian,4,Castform; Bellibolt; Arboliva; Slowking Galarian
+Galarian Slowking,4,Castform; Bellibolt; Arboliva; Galarian Slowking
 Misdreavus,3,Castform; Mismagius; Misdreavus
 Unown,3,Castform; Weepinbell; Unown
 Wobbuffet,3,Castform; Shellos; Wobbuffet
@@ -262,28 +262,28 @@ Girafarig,3,Castform; Galvantula; Girafarig
 Pineco,3,Castform; Cubone; Pineco
 Forretress,3,Castform; Donphan; Forretress
 Dunsparce,2,Castform; Dunsparce
-Gligar,3,Castform; Qwilfish Hisuian; Gligar
+Gligar,3,Castform; Hisuian Qwilfish; Gligar
 Steelix,3,Castform; Donphan; Steelix
-Steelix Mega,3,Castform; Gourgeist Super Size; Steelix Mega
+Mega Steelix,3,Castform; Gourgeist Super Size; Mega Steelix
 Snubbull,3,Castform; Karrablast; Snubbull
 Granbull,3,Castform; Donphan; Granbull
-Qwilfish,3,Castform; Qwilfish Hisuian; Qwilfish
-Qwilfish Hisuian,2,Castform; Qwilfish Hisuian
+Qwilfish,3,Castform; Hisuian Qwilfish; Qwilfish
+Hisuian Qwilfish,2,Castform; Hisuian Qwilfish
 Scizor,3,Castform; Crustle; Scizor
-Scizor Mega,3,Castform; Bombirdier; Scizor Mega
-Shuckle,3,Castform; Corsola Galarian; Shuckle
+Mega Scizor,3,Castform; Bombirdier; Mega Scizor
+Shuckle,3,Castform; Galarian Corsola; Shuckle
 Heracross,3,Castform; Ceruledge; Heracross
-Heracross Mega,3,Castform; Ceruledge; Heracross Mega
+Mega Heracross,3,Castform; Ceruledge; Mega Heracross
 Sneasel,3,Castform; Togedemaru; Sneasel
-Sneasel Hisuian,4,Castform; Togedemaru; Sneasel; Sneasel Hisuian
+Hisuian Sneasel,4,Castform; Togedemaru; Sneasel; Hisuian Sneasel
 Teddiursa,3,Castform; Karrablast; Teddiursa
 Ursaring,4,Castform; Type: Null; Arctozolt; Ursaring
 Slugma,3,Castform; Petilil; Slugma
 Magcargo,3,Castform; Wormadam Plant Cloak; Magcargo
 Swinub,3,Castform; Ditto; Swinub
 Piloswine,3,Castform; Donphan; Piloswine
-Corsola,3,Castform; Corsola Galarian; Corsola
-Corsola Galarian,2,Castform; Corsola Galarian
+Corsola,3,Castform; Galarian Corsola; Corsola
+Galarian Corsola,2,Castform; Galarian Corsola
 Remoraid,4,Castform; Ditto; Purrloin; Remoraid
 Octillery,4,Castform; Type: Null; Eelektross; Octillery
 Delibird,4,Castform; Poliwag; Stunky; Delibird
@@ -291,7 +291,7 @@ Mantine,2,Castform; Mantine
 Skarmory,3,Castform; Bisharp; Skarmory
 Houndour,3,Castform; Poltchageist; Houndour
 Houndoom,3,Castform; Magmortar; Houndoom
-Houndoom Mega,4,Castform; Mew; Sandy Shocks; Houndoom Mega
+Mega Houndoom,4,Castform; Mew; Sandy Shocks; Mega Houndoom
 Kingdra,4,Castform; Mew; Glalie; Kingdra
 Phanpy,3,Castform; Shellos; Phanpy
 Donphan,2,Castform; Donphan
@@ -311,28 +311,28 @@ Suicune,3,Castform; Mew; Suicune
 Larvitar,3,Castform; Ditto; Larvitar
 Pupitar,3,Castform; Marshtomp; Pupitar
 Tyranitar,3,Castform; Type: Null; Tyranitar
-Tyranitar Mega,3,Castform; Mew; Tyranitar Mega
+Mega Tyranitar,3,Castform; Mew; Mega Tyranitar
 Lugia,3,Castform; Mew; Lugia
-Ho-Oh,4,Castform; Mew; Lunala; Ho-Oh
+Ho-oh,4,Castform; Mew; Lunala; Ho-oh
 Celebi,3,Castform; Mew; Celebi
 Treecko,3,Castform; Wattrel; Treecko
 Grovyle,3,Castform; Frogadier; Grovyle
 Sceptile,2,Castform; Sceptile
-Sceptile Mega,3,Castform; Darkrai; Sceptile Mega
+Mega Sceptile,3,Castform; Darkrai; Mega Sceptile
 Torchic,3,Castform; Petilil; Torchic
 Combusken,3,Castform; Weepinbell; Combusken
 Blaziken,2,Castform; Blaziken
-Blaziken Mega,4,Castform; Mew; Glalie Mega; Blaziken Mega
+Mega Blaziken,4,Castform; Mew; Mega Glalie; Mega Blaziken
 Mudkip,2,Castform; Mudkip
 Marshtomp,2,Castform; Marshtomp
 Swampert,3,Castform; Type: Null; Swampert
-Swampert Mega,3,Castform; Decidueye; Swampert Mega
+Mega Swampert,3,Castform; Decidueye; Mega Swampert
 Poochyena,4,Castform; Ditto; Patrat; Poochyena
 Mightyena,2,Castform; Mightyena
 Zigzagoon,4,Castform; Ditto; Bunnelby; Zigzagoon
-Zigzagoon Galarian,5,Castform; Ditto; Bunnelby; Zigzagoon; Zigzagoon Galarian
+Galarian Zigzagoon,5,Castform; Ditto; Bunnelby; Zigzagoon; Galarian Zigzagoon
 Linoone,2,Castform; Linoone
-Linoone Galarian,3,Castform; Linoone; Linoone Galarian
+Galarian Linoone,3,Castform; Linoone; Galarian Linoone
 Wurmple,4,Castform; Ditto; Cosmog; Wurmple
 Silcoon,4,Castform; Ditto; Cascoon; Silcoon
 Beautifly,2,Castform; Beautifly
@@ -351,14 +351,14 @@ Pelipper,2,Castform; Pelipper
 Ralts,4,Castform; Ditto; Cosmog; Ralts
 Kirlia,4,Castform; Ditto; Vulpix; Kirlia
 Gardevoir,3,Castform; Mismagius; Gardevoir
-Gardevoir Mega,3,Castform; Electabuzz; Gardevoir Mega
+Mega Gardevoir,3,Castform; Electabuzz; Mega Gardevoir
 Surskit,4,Castform; Ditto; Vulpix; Surskit
 Masquerain,3,Castform; Thievul; Masquerain
 Shroomish,3,Castform; Ditto; Shroomish
 Breloom,2,Castform; Breloom
 Slakoth,4,Castform; Ditto; Chewtle; Slakoth
 Vigoroth,3,Castform; Revavroom; Vigoroth
-Slaking,3,Castform; Samurott Hisuian; Slaking
+Slaking,3,Castform; Hisuian Samurott; Slaking
 Nincada,3,Castform; Cubone; Nincada
 Ninjask,3,Castform; Fletchinder; Ninjask
 Shedinja,3,Castform; Karrablast; Shedinja
@@ -368,38 +368,38 @@ Exploud,2,Castform; Exploud
 Makuhita,3,Castform; Shellos; Makuhita
 Hariyama,3,Castform; Cufant; Hariyama
 Azurill,4,Castform; Ditto; Wooper; Azurill
-Nosepass,4,Castform; Corsola Galarian; Shieldon; Nosepass
+Nosepass,4,Castform; Galarian Corsola; Shieldon; Nosepass
 Skitty,3,Castform; Ditto; Skitty
 Delcatty,3,Castform; Finizen; Delcatty
 Sableye,3,Castform; Tyrunt; Sableye
-Sableye Mega,3,Castform; Spiritomb; Sableye Mega
+Mega Sableye,3,Castform; Spiritomb; Mega Sableye
 Mawile,3,Castform; Tyrunt; Mawile
-Mawile Mega,3,Castform; Marowak; Mawile Mega
+Mega Mawile,3,Castform; Marowak; Mega Mawile
 Aron,2,Castform; Aron
 Lairon,3,Castform; Tyrunt; Lairon
 Aggron,3,Castform; Perrserker; Aggron
-Aggron Mega,3,Castform; Crustle; Aggron Mega
+Mega Aggron,3,Castform; Crustle; Mega Aggron
 Meditite,4,Castform; Ditto; Snivy; Meditite
 Medicham,3,Castform; Servine; Medicham
-Medicham Mega,2,Castform; Medicham Mega
+Mega Medicham,2,Castform; Mega Medicham
 Electrike,3,Castform; Ditto; Electrike
 Manectric,3,Castform; Galvantula; Manectric
-Manectric Mega,3,Castform; Darkrai; Manectric Mega
+Mega Manectric,3,Castform; Darkrai; Mega Manectric
 Plusle,3,Castform; Mismagius; Plusle
 Minun,4,Castform; Mismagius; Plusle; Minun
 Volbeat,3,Castform; Lopunny; Volbeat
-Illumise,3,Castform; Rotom Heat; Illumise
+Illumise,3,Castform; Heat Rotom; Illumise
 Roselia,3,Castform; Prinplup; Roselia
 Gulpin,2,Castform; Gulpin
 Swalot,3,Castform; Type: Null; Swalot
 Carvanha,3,Castform; Karrablast; Carvanha
 Sharpedo,3,Castform; Galvantula; Sharpedo
-Sharpedo Mega,2,Castform; Sharpedo Mega
+Mega Sharpedo,2,Castform; Mega Sharpedo
 Wailmer,2,Castform; Wailmer
 Wailord,4,Castform; Seviper; Loudred; Wailord
 Numel,3,Castform; Ditto; Numel
 Camerupt,2,Castform; Camerupt
-Camerupt Mega,3,Castform; Dhelmise; Camerupt Mega
+Mega Camerupt,3,Castform; Dhelmise; Mega Camerupt
 Torkoal,2,Castform; Torkoal
 Spoink,2,Castform; Spoink
 Grumpig,3,Castform; Volcarona; Grumpig
@@ -411,7 +411,7 @@ Cacnea,3,Castform; Weepinbell; Cacnea
 Cacturne,2,Castform; Cacturne
 Swablu,3,Castform; Flabébé; Swablu
 Altaria,2,Castform; Altaria
-Altaria Mega,3,Castform; Mew; Altaria Mega
+Mega Altaria,3,Castform; Mew; Mega Altaria
 Zangoose,2,Castform; Zangoose
 Seviper,2,Castform; Seviper
 Lunatone,2,Castform; Lunatone
@@ -422,7 +422,7 @@ Corphish,3,Castform; Karrablast; Corphish
 Crawdaunt,2,Castform; Crawdaunt
 Baltoy,2,Castform; Baltoy
 Claydol,3,Castform; Deoxys Defense Forme; Claydol
-Lileep,3,Castform; Corsola Galarian; Lileep
+Lileep,3,Castform; Galarian Corsola; Lileep
 Cradily,4,Castform; Type: Null; Registeel; Cradily
 Anorith,4,Castform; Fletchinder; Trumbeak; Anorith
 Armaldo,3,Castform; Grapploct; Armaldo
@@ -432,17 +432,17 @@ Castform,1,Castform
 Kecleon,2,Castform; Kecleon
 Shuppet,3,Castform; Karrablast; Shuppet
 Banette,3,Castform; Weepinbell; Banette
-Banette Mega,3,Castform; Medicham Mega; Banette Mega
-Duskull,4,Castform; Corsola Galarian; Bronzor; Duskull
+Mega Banette,3,Castform; Mega Medicham; Mega Banette
+Duskull,4,Castform; Galarian Corsola; Bronzor; Duskull
 Dusclops,2,Castform; Dusclops
 Tropius,3,Castform; Bellibolt; Tropius
 Chimecho,4,Castform; Bellibolt; Oranguru; Chimecho
 Absol,3,Castform; Boltund; Absol
-Absol Mega,4,Castform; Boltund; Zoroark; Absol Mega
+Mega Absol,4,Castform; Boltund; Zoroark; Mega Absol
 Wynaut,3,Castform; Shellos; Wynaut
 Snorunt,4,Castform; Ditto; Finneon; Snorunt
 Glalie,3,Castform; Mew; Glalie
-Glalie Mega,3,Castform; Mew; Glalie Mega
+Mega Glalie,3,Castform; Mew; Mega Glalie
 Spheal,3,Castform; Gulpin; Spheal
 Sealeo,2,Castform; Sealeo
 Walrein,3,Castform; Type: Null; Walrein
@@ -453,30 +453,30 @@ Relicanth,3,Castform; Donphan; Relicanth
 Luvdisc,3,Castform; Poliwag; Luvdisc
 Bagon,3,Castform; Karrablast; Bagon
 Shelgon,3,Castform; Tyrunt; Shelgon
-Salamence,4,Castform; Mew; Glalie Mega; Salamence
-Salamence Mega,3,Castform; Mew; Salamence Mega
+Salamence,4,Castform; Mew; Mega Glalie; Salamence
+Mega Salamence,3,Castform; Mew; Mega Salamence
 Beldum,3,Castform; Cubone; Beldum
 Metang,3,Castform; Marowak; Metang
 Metagross,3,Castform; Decidueye; Metagross
-Metagross Mega,3,Castform; Mew; Metagross Mega
+Mega Metagross,3,Castform; Mew; Mega Metagross
 Regirock,3,Castform; Gourgeist Super Size; Regirock
-Regice,4,Castform; Bellibolt; Audino Mega; Regice
+Regice,4,Castform; Bellibolt; Mega Audino; Regice
 Registeel,3,Castform; Type: Null; Registeel
 Latias,3,Castform; Mew; Latias
-Latias Mega,3,Castform; Mew; Latias Mega
+Mega Latias,3,Castform; Mew; Mega Latias
 Latios,4,Castform; Mew; Latias; Latios
-Latios Mega,3,Castform; Mew; Latios Mega
+Mega Latios,3,Castform; Mew; Mega Latios
 Kyogre,3,Castform; Mew; Kyogre
-Kyogre Primal,3,Castform; Mew; Kyogre Primal
+Primal Kyogre,3,Castform; Mew; Primal Kyogre
 Groudon,3,Castform; Mew; Groudon
-Groudon Primal,3,Castform; Mew; Groudon Primal
+Primal Groudon,3,Castform; Mew; Primal Groudon
 Rayquaza,4,Castform; Mew; Yveltal; Rayquaza
-Rayquaza Mega,4,Castform; Mew; Mewtwo Mega X; Rayquaza Mega
+Mega Rayquaza,4,Castform; Mew; Mega Mewtwo X; Mega Rayquaza
 Jirachi,4,Castform; Mew; Celebi; Jirachi
 Deoxys Normal Forme,4,Castform; Boltund; Deoxys Attack Forme; Deoxys Normal Forme
 Deoxys Attack Forme,3,Castform; Boltund; Deoxys Attack Forme
 Deoxys Defense Forme,2,Castform; Deoxys Defense Forme
-Deoxys Speed Forme,3,Castform; Medicham Mega; Deoxys Speed Forme
+Deoxys Speed Forme,3,Castform; Mega Medicham; Deoxys Speed Forme
 Turtwig,4,Castform; Ditto; Larvitar; Turtwig
 Grotle,3,Castform; Donphan; Grotle
 Torterra,3,Castform; Type: Null; Torterra
@@ -500,12 +500,12 @@ Budew,3,Castform; Baltoy; Budew
 Roserade,2,Castform; Roserade
 Cranidos,3,Castform; Karrablast; Cranidos
 Rampardos,4,Castform; Cufant; Gumshoos; Rampardos
-Shieldon,3,Castform; Corsola Galarian; Shieldon
-Bastiodon,3,Castform; Corsola Galarian; Bastiodon
+Shieldon,3,Castform; Galarian Corsola; Shieldon
+Bastiodon,3,Castform; Galarian Corsola; Bastiodon
 Burmy,4,Castform; Ditto; Cosmog; Burmy
 Wormadam Plant Cloak,2,Castform; Wormadam Plant Cloak
 Wormadam Sandy Cloak,4,Castform; Marowak; Spidops; Wormadam Sandy Cloak
-Wormadam Trash Cloak,3,Castform; Corsola Galarian; Wormadam Trash Cloak
+Wormadam Trash Cloak,3,Castform; Galarian Corsola; Wormadam Trash Cloak
 Mothim,3,Castform; Cacturne; Mothim
 Combee,3,Castform; Wattrel; Combee
 Vespiquen,3,Castform; Dhelmise; Vespiquen
@@ -521,7 +521,7 @@ Drifloon,2,Castform; Drifloon
 Drifblim,3,Castform; Simisage; Drifblim
 Buneary,4,Castform; Poliwag; Stunky; Buneary
 Lopunny,2,Castform; Lopunny
-Lopunny Mega,3,Castform; Lopunny; Lopunny Mega
+Mega Lopunny,3,Castform; Lopunny; Mega Lopunny
 Mismagius,2,Castform; Mismagius
 Honchkrow,4,Castform; Simisage; Regidrago; Honchkrow
 Glameow,3,Castform; Poliwag; Glameow
@@ -529,7 +529,7 @@ Purugly,3,Castform; Zangoose; Purugly
 Chingling,4,Castform; Ditto; Gothita; Chingling
 Stunky,3,Castform; Poliwag; Stunky
 Skuntank,3,Castform; Simisage; Skuntank
-Bronzor,3,Castform; Corsola Galarian; Bronzor
+Bronzor,3,Castform; Galarian Corsola; Bronzor
 Bronzong,3,Castform; Spiritomb; Bronzong
 Bonsly,3,Castform; Tyrunt; Bonsly
 Mime Jr.,3,Castform; Spoink; Mime Jr.
@@ -539,11 +539,11 @@ Spiritomb,2,Castform; Spiritomb
 Gible,3,Castform; Mudkip; Gible
 Gabite,3,Castform; Fletchinder; Gabite
 Garchomp,3,Castform; Mew; Garchomp
-Garchomp Mega,3,Castform; Mew; Garchomp Mega
+Mega Garchomp,3,Castform; Mew; Mega Garchomp
 Munchlax,3,Castform; Clodsire; Munchlax
 Riolu,3,Castform; Mudkip; Riolu
 Lucario,2,Castform; Lucario
-Lucario Mega,2,Castform; Lucario Mega
+Mega Lucario,2,Castform; Mega Lucario
 Hippopotas,3,Castform; Tyrunt; Hippopotas
 Hippowdon,3,Castform; Gourgeist Super Size; Hippowdon
 Skorupi,3,Castform; Cubone; Skorupi
@@ -556,7 +556,7 @@ Lumineon,3,Castform; Servine; Lumineon
 Mantyke,3,Castform; Flabébé; Mantyke
 Snover,4,Castform; Ditto; Piplup; Snover
 Abomasnow,3,Castform; Type: Null; Abomasnow
-Abomasnow Mega,4,Castform; Type: Null; Enamorus Therian Forme; Abomasnow Mega
+Mega Abomasnow,4,Castform; Type: Null; Enamorus Therian Forme; Mega Abomasnow
 Weavile,2,Castform; Weavile
 Magnezone,2,Castform; Magnezone
 Lickilicky,3,Castform; Type: Null; Lickilicky
@@ -565,25 +565,25 @@ Tangrowth,3,Castform; Carracosta; Tangrowth
 Electivire,3,Castform; Magmortar; Electivire
 Magmortar,2,Castform; Magmortar
 Togekiss,4,Castform; Sigilyph; Glimmora; Togekiss
-Yanmega,3,Castform; Samurott Hisuian; Yanmega
-Leafeon,3,Castform; Qwilfish Hisuian; Leafeon
+Yanmega,3,Castform; Hisuian Samurott; Yanmega
+Leafeon,3,Castform; Hisuian Qwilfish; Leafeon
 Glaceon,3,Castform; Wormadam Plant Cloak; Glaceon
 Gliscor,3,Castform; Ceruledge; Gliscor
 Mamoswine,2,Castform; Mamoswine
 Porygon-Z,3,Castform; Enamorus Incarnate Forme; Porygon-Z
 Gallade,3,Castform; Togedemaru; Gallade
-Gallade Mega,3,Castform; Lopunny; Gallade Mega
+Mega Gallade,3,Castform; Lopunny; Mega Gallade
 Probopass,3,Castform; Wormadam Plant Cloak; Probopass
 Dusknoir,3,Castform; Marowak; Dusknoir
 Froslass,3,Castform; Lucario; Froslass
-Rotom,3,Castform; Rotom Heat; Rotom
-Rotom Heat,2,Castform; Rotom Heat
-Rotom Wash,3,Castform; Rotom Heat; Rotom Wash
-Rotom Frost,4,Castform; Rotom Heat; Rotom Wash; Rotom Frost
-Rotom Fan,5,Castform; Rotom Heat; Rotom Wash; Rotom Frost; Rotom Fan
-Rotom Mow,6,Castform; Rotom Heat; Rotom Wash; Rotom Frost; Rotom Fan; Rotom Mow
+Rotom,3,Castform; Heat Rotom; Rotom
+Heat Rotom,2,Castform; Heat Rotom
+Wash Rotom,3,Castform; Heat Rotom; Wash Rotom
+Frost Rotom,4,Castform; Heat Rotom; Wash Rotom; Frost Rotom
+Fan Rotom,5,Castform; Heat Rotom; Wash Rotom; Frost Rotom; Fan Rotom
+Mow Rotom,6,Castform; Heat Rotom; Wash Rotom; Frost Rotom; Fan Rotom; Mow Rotom
 Uxie,3,Castform; Mew; Uxie
-Mesprit,4,Castform; Mew; Altaria Mega; Mesprit
+Mesprit,4,Castform; Mew; Mega Altaria; Mesprit
 Azelf,3,Castform; Blaziken; Azelf
 Dialga,3,Castform; Mew; Dialga
 Dialga Origin Forme,3,Castform; Mew; Dialga Origin Forme
@@ -610,7 +610,7 @@ Emboar,3,Castform; Seviper; Emboar
 Oshawott,4,Castform; Ditto; Numel; Oshawott
 Dewott,3,Castform; Seviper; Dewott
 Samurott,2,Castform; Samurott
-Samurott Hisuian,2,Castform; Samurott Hisuian
+Hisuian Samurott,2,Castform; Hisuian Samurott
 Patrat,3,Castform; Ditto; Patrat
 Watchog,3,Castform; Fletchinder; Watchog
 Lillipup,4,Castform; Ditto; Fletchling; Lillipup
@@ -631,7 +631,7 @@ Tranquill,3,Castform; Karrablast; Tranquill
 Unfezant,3,Castform; Revavroom; Unfezant
 Blitzle,4,Castform; Poliwag; Buizel; Blitzle
 Zebstrika,3,Castform; Simisage; Zebstrika
-Roggenrola,4,Castform; Tyrunt; Geodude Alolan; Roggenrola
+Roggenrola,4,Castform; Tyrunt; Alolan Geodude; Roggenrola
 Boldore,3,Castform; Perrserker; Boldore
 Gigalith,3,Castform; Gourgeist Super Size; Gigalith
 Woobat,4,Castform; Poliwag; Skiploom; Woobat
@@ -639,7 +639,7 @@ Swoobat,3,Castform; Frogadier; Swoobat
 Drilbur,3,Castform; Karrablast; Drilbur
 Excadrill,3,Castform; Zangoose; Excadrill
 Audino,2,Castform; Audino
-Audino Mega,3,Castform; Bellibolt; Audino Mega
+Mega Audino,3,Castform; Bellibolt; Mega Audino
 Timburr,3,Castform; Cufant; Timburr
 Gurdurr,4,Castform; Donphan; Rhyhorn; Gurdurr
 Conkeldurr,3,Castform; Donphan; Conkeldurr
@@ -649,22 +649,22 @@ Seismitoad,3,Castform; Mew; Seismitoad
 Throh,3,Castform; Gourgeist Super Size; Throh
 Sawk,3,Castform; Ceruledge; Sawk
 Sewaddle,3,Castform; Pumpkaboo Average Size; Sewaddle
-Swadloon,3,Castform; Corsola Galarian; Swadloon
+Swadloon,3,Castform; Galarian Corsola; Swadloon
 Leavanny,3,Castform; Iron Leaves; Leavanny
 Venipede,3,Castform; Ditto; Venipede
-Whirlipede,3,Castform; Corsola Galarian; Whirlipede
-Scolipede,3,Castform; Qwilfish Hisuian; Scolipede
+Whirlipede,3,Castform; Galarian Corsola; Whirlipede
+Scolipede,3,Castform; Hisuian Qwilfish; Scolipede
 Cottonee,4,Castform; Ditto; Snivy; Cottonee
-Whimsicott,3,Castform; Rotom Heat; Whimsicott
+Whimsicott,3,Castform; Heat Rotom; Whimsicott
 Petilil,2,Castform; Petilil
 Lilligant,2,Castform; Lilligant
-Lilligant Hisuian,4,Castform; Bombirdier; Scyther; Lilligant Hisuian
+Hisuian Lilligant,4,Castform; Bombirdier; Scyther; Hisuian Lilligant
 Basculin,3,Castform; Galvantula; Basculin
 Sandile,3,Castform; Karrablast; Sandile
 Krokorok,4,Castform; Fletchinder; Trumbeak; Krokorok
 Krookodile,4,Castform; Tauros; Mabosstiff; Krookodile
 Darumaka,3,Castform; Rufflet; Darumaka
-Darumaka Galarian,4,Castform; Rufflet; Darumaka; Darumaka Galarian
+Galarian Darumaka,4,Castform; Rufflet; Darumaka; Galarian Darumaka
 Darmanitan Standard Mode,3,Castform; Zangoose; Darmanitan Standard Mode
 Darmanitan Zen Mode,3,Castform; Bellibolt; Darmanitan Zen Mode
 Darmanitan Galarian Standard Mode,4,Castform; Zangoose; Darmanitan Standard Mode; Darmanitan Galarian Standard Mode
@@ -676,7 +676,7 @@ Scraggy,2,Castform; Scraggy
 Scrafty,3,Castform; Marowak; Scrafty
 Sigilyph,2,Castform; Sigilyph
 Yamask,3,Castform; Cubone; Yamask
-Yamask Galarian,4,Castform; Cubone; Beldum; Yamask Galarian
+Galarian Yamask,4,Castform; Cubone; Beldum; Galarian Yamask
 Cofagrigus,3,Castform; Wormadam Plant Cloak; Cofagrigus
 Tirtouga,3,Castform; Tyrunt; Tirtouga
 Carracosta,2,Castform; Carracosta
@@ -685,9 +685,9 @@ Archeops,3,Castform; Simisage; Archeops
 Trubbish,3,Castform; Ditto; Trubbish
 Garbodor,3,Castform; Ceruledge; Garbodor
 Zorua,3,Castform; Poltchageist; Zorua
-Zorua Hisuian,2,Castform; Zorua Hisuian
+Hisuian Zorua,2,Castform; Hisuian Zorua
 Zoroark,3,Castform; Boltund; Zoroark
-Zoroark Hisuian,4,Castform; Boltund; Zoroark; Zoroark Hisuian
+Hisuian Zoroark,4,Castform; Boltund; Zoroark; Hisuian Zoroark
 Minccino,3,Castform; Poliwag; Minccino
 Cinccino,3,Castform; Zangoose; Cinccino
 Gothita,3,Castform; Ditto; Gothita
@@ -700,7 +700,7 @@ Ducklett,3,Castform; Ditto; Ducklett
 Swanna,3,Castform; Simisage; Swanna
 Vanillite,4,Castform; Ditto; Bulbasaur; Vanillite
 Vanillish,3,Castform; Prinplup; Vanillish
-Vanilluxe,4,Castform; Mew; Typhlosion Hisuian; Vanilluxe
+Vanilluxe,4,Castform; Mew; Hisuian Typhlosion; Vanilluxe
 Deerling,3,Castform; Poliwag; Deerling
 Sawsbuck,2,Castform; Sawsbuck
 Emolga,3,Castform; Boltund; Emolga
@@ -713,7 +713,7 @@ Jellicent,2,Castform; Jellicent
 Alomomola,3,Castform; Donphan; Alomomola
 Joltik,3,Castform; Ditto; Joltik
 Galvantula,2,Castform; Galvantula
-Ferroseed,4,Castform; Corsola Galarian; Bronzor; Ferroseed
+Ferroseed,4,Castform; Galarian Corsola; Bronzor; Ferroseed
 Ferrothorn,3,Castform; Gourgeist Super Size; Ferrothorn
 Klink,3,Castform; Pumpkaboo Average Size; Klink
 Klang,2,Castform; Klang
@@ -725,7 +725,7 @@ Elgyem,4,Castform; Poltchageist; Oddish; Elgyem
 Beheeyem,3,Castform; Type: Null; Beheeyem
 Litwick,3,Castform; Ditto; Litwick
 Lampent,3,Castform; Poltchageist; Lampent
-Chandelure,3,Castform; Rotom Heat; Chandelure
+Chandelure,3,Castform; Heat Rotom; Chandelure
 Axew,3,Castform; Karrablast; Axew
 Fraxure,2,Castform; Fraxure
 Haxorus,4,Castform; Tauros; Mabosstiff; Haxorus
@@ -735,7 +735,7 @@ Cryogonal,3,Castform; Volcarona; Cryogonal
 Shelmet,3,Castform; Cubone; Shelmet
 Accelgor,2,Castform; Accelgor
 Stunfisk,3,Castform; Bellibolt; Stunfisk
-Stunfisk Galarian,3,Castform; Gourgeist Super Size; Stunfisk Galarian
+Galarian Stunfisk,3,Castform; Gourgeist Super Size; Galarian Stunfisk
 Mienfoo,3,Castform; Karrablast; Mienfoo
 Mienshao,4,Castform; Boltund; Zoroark; Mienshao
 Druddigon,3,Castform; Gourgeist Super Size; Druddigon
@@ -746,11 +746,11 @@ Bisharp,2,Castform; Bisharp
 Bouffalant,3,Castform; Gourgeist Super Size; Bouffalant
 Rufflet,2,Castform; Rufflet
 Braviary,4,Castform; Ceruledge; Lycanroc Midnight Form; Braviary
-Braviary Hisuian,3,Castform; Farigiraf; Braviary Hisuian
+Hisuian Braviary,3,Castform; Farigiraf; Hisuian Braviary
 Vullaby,2,Castform; Vullaby
 Mandibuzz,2,Castform; Mandibuzz
 Heatmor,3,Castform; Seviper; Heatmor
-Durant,3,Castform; Qwilfish Hisuian; Durant
+Durant,3,Castform; Hisuian Qwilfish; Durant
 Deino,4,Castform; Ditto; Larvitar; Deino
 Zweilous,2,Castform; Zweilous
 Hydreigon,3,Castform; Mew; Hydreigon
@@ -768,8 +768,8 @@ Zekrom,4,Castform; Mew; Dialga; Zekrom
 Landorus Incarnate Forme,3,Castform; Mew; Landorus Incarnate Forme
 Landorus Therian Forme,4,Castform; Mew; Hydreigon; Landorus Therian Forme
 Kyurem,4,Castform; Mew; Yveltal; Kyurem
-Kyurem White,3,Castform; Mew; Kyurem White
-Kyurem Black,3,Castform; Mew; Kyurem Black
+White Kyurem,3,Castform; Mew; White Kyurem
+Black Kyurem,3,Castform; Mew; Black Kyurem
 Keldeo,4,Castform; Mew; Sandy Shocks; Keldeo
 Meloetta Aria Forme,3,Castform; Mew; Meloetta Aria Forme
 Meloetta Pirouette Forme,3,Castform; Mew; Meloetta Pirouette Forme
@@ -787,7 +787,7 @@ Bunnelby,3,Castform; Ditto; Bunnelby
 Diggersby,3,Castform; Mandibuzz; Diggersby
 Fletchling,3,Castform; Ditto; Fletchling
 Fletchinder,2,Castform; Fletchinder
-Talonflame,3,Castform; Samurott Hisuian; Talonflame
+Talonflame,3,Castform; Hisuian Samurott; Talonflame
 Scatterbug,4,Castform; Ditto; Cosmog; Scatterbug
 Spewpa,3,Castform; Ditto; Spewpa
 Vivillon,2,Castform; Vivillon
@@ -804,9 +804,9 @@ Furfrou,3,Castform; Aerodactyl; Furfrou
 Espurr,3,Castform; Ditto; Espurr
 Meowstic Male,3,Castform; Sigilyph; Meowstic Male
 Meowstic Female,4,Castform; Sigilyph; Meowstic Male; Meowstic Female
-Honedge,4,Castform; Tyrunt; Geodude Alolan; Honedge
+Honedge,4,Castform; Tyrunt; Alolan Geodude; Honedge
 Doublade,3,Castform; Tyrunt; Doublade
-Aegislash Shield Forme,3,Castform; Corsola Galarian; Aegislash Shield Forme
+Aegislash Shield Forme,3,Castform; Galarian Corsola; Aegislash Shield Forme
 Aegislash Blade Forme,3,Castform; Weepinbell; Aegislash Blade Forme
 Spritzee,3,Castform; Shellos; Spritzee
 Aromatisse,3,Castform; Type: Null; Aromatisse
@@ -814,7 +814,7 @@ Swirlix,4,Castform; Ditto; Espurr; Swirlix
 Slurpuff,4,Castform; Mew; Glalie; Slurpuff
 Inkay,4,Castform; Ditto; Chewtle; Inkay
 Malamar,3,Castform; Ceruledge; Malamar
-Malamar Mega,3,Castform; Mew; Malamar Mega
+Mega Malamar,3,Castform; Mew; Mega Malamar
 Binacle,3,Castform; Ditto; Binacle
 Barbaracle,3,Castform; Gourgeist Super Size; Barbaracle
 Skrelp,4,Castform; Ditto; Piplup; Skrelp
@@ -828,16 +828,16 @@ Tyrantrum,3,Castform; Revavroom; Tyrantrum
 Amaura,3,Castform; Shellos; Amaura
 Aurorus,4,Castform; Type: Null; Aromatisse; Aurorus
 Sylveon,3,Castform; Vaporeon; Sylveon
-Hawlucha,3,Castform; Samurott Hisuian; Hawlucha
-Hawlucha Mega,3,Castform; Mew; Hawlucha Mega
-Dedenne,4,Castform; Frogadier; Persian Alolan; Dedenne
-Carbink,4,Castform; Corsola Galarian; Cosmoem; Carbink
+Hawlucha,3,Castform; Hisuian Samurott; Hawlucha
+Mega Hawlucha,3,Castform; Mew; Mega Hawlucha
+Dedenne,4,Castform; Frogadier; Alolan Persian; Dedenne
+Carbink,4,Castform; Galarian Corsola; Cosmoem; Carbink
 Goomy,3,Castform; Flabébé; Goomy
 Sliggoo,3,Castform; Flareon; Sliggoo
-Sliggoo Hisuian,3,Castform; Spiritomb; Sliggoo Hisuian
+Hisuian Sliggoo,3,Castform; Spiritomb; Hisuian Sliggoo
 Goodra,3,Castform; Enamorus Incarnate Forme; Goodra
-Goodra Hisuian,3,Castform; Type: Null; Goodra Hisuian
-Klefki,3,Castform; Medicham Mega; Klefki
+Hisuian Goodra,3,Castform; Type: Null; Hisuian Goodra
+Klefki,3,Castform; Mega Medicham; Klefki
 Phantump,3,Castform; Mudkip; Phantump
 Trevenant,3,Castform; Gourgeist Super Size; Trevenant
 Pumpkaboo Average Size,2,Castform; Pumpkaboo Average Size
@@ -850,7 +850,7 @@ Gourgeist Large Size,3,Castform; Gourgeist Super Size; Gourgeist Large Size
 Gourgeist Super Size,2,Castform; Gourgeist Super Size
 Bergmite,3,Castform; Cubone; Bergmite
 Avalugg,3,Castform; Donphan; Avalugg
-Avalugg Hisuian,4,Castform; Donphan; Rhyperior; Avalugg Hisuian
+Hisuian Avalugg,4,Castform; Donphan; Rhyperior; Hisuian Avalugg
 Noibat,4,Castform; Ditto; Bunnelby; Noibat
 Noivern,3,Castform; Cresselia; Noivern
 Xerneas,4,Castform; Mew; Yveltal; Xerneas
@@ -859,14 +859,14 @@ Zygarde 50% Forme,4,Castform; Mew; Zygarde Complete Forme; Zygarde 50% Forme
 Zygarde 10% Forme,3,Castform; Lopunny; Zygarde 10% Forme
 Zygarde Complete Forme,3,Castform; Mew; Zygarde Complete Forme
 Diancie,3,Castform; Spiritomb; Diancie
-Diancie Mega,3,Castform; Medicham Mega; Diancie Mega
+Mega Diancie,3,Castform; Mega Medicham; Mega Diancie
 Hoopa Confined,2,Castform; Hoopa Confined
 Hoopa Unbound,3,Castform; Magmortar; Hoopa Unbound
 Volcanion,3,Castform; Decidueye; Volcanion
 Rowlet,4,Castform; Ditto; Piplup; Rowlet
 Dartrix,2,Castform; Dartrix
 Decidueye,2,Castform; Decidueye
-Decidueye Hisuian,3,Castform; Type: Null; Decidueye Hisuian
+Hisuian Decidueye,3,Castform; Type: Null; Hisuian Decidueye
 Litten,3,Castform; Wattrel; Litten
 Torracat,3,Castform; Boltund; Torracat
 Incineroar,3,Castform; Type: Null; Incineroar
@@ -885,8 +885,8 @@ Crabrawler,4,Castform; Karrablast; Mienfoo; Crabrawler
 Crabominable,3,Castform; Donphan; Crabominable
 Oricorio Baile Style,2,Castform; Oricorio Baile Style
 Oricorio Pom-Pom Style,3,Castform; Oricorio Baile Style; Oricorio Pom-Pom Style
-Oricorio Pa'U Style,4,Castform; Oricorio Baile Style; Oricorio Pom-Pom Style; Oricorio Pa'U Style
-Oricorio Sensu Style,5,Castform; Oricorio Baile Style; Oricorio Pom-Pom Style; Oricorio Pa'U Style; Oricorio Sensu Style
+Oricorio Pa'u Style,4,Castform; Oricorio Baile Style; Oricorio Pom-Pom Style; Oricorio Pa'u Style
+Oricorio Sensu Style,5,Castform; Oricorio Baile Style; Oricorio Pom-Pom Style; Oricorio Pa'u Style; Oricorio Sensu Style
 Cutiefly,3,Castform; Poliwag; Cutiefly
 Ribombee,2,Castform; Ribombee
 Rockruff,4,Castform; Ditto; Fletchling; Rockruff
@@ -896,7 +896,7 @@ Lycanroc Dusk Form,3,Castform; Zangoose; Lycanroc Dusk Form
 Wishiwashi Solo Form,4,Castform; Ditto; Cosmog; Wishiwashi Solo Form
 Wishiwashi School Form,3,Castform; Spiritomb; Wishiwashi School Form
 Mareanie,4,Castform; Ditto; Larvitar; Mareanie
-Toxapex,3,Castform; Corsola Galarian; Toxapex
+Toxapex,3,Castform; Galarian Corsola; Toxapex
 Mudbray,2,Castform; Mudbray
 Mudsdale,4,Castform; Gourgeist Super Size; Ursaluna; Mudsdale
 Dewpider,3,Castform; Flabébé; Dewpider
@@ -912,17 +912,17 @@ Bewear,3,Castform; Donphan; Bewear
 Bounsweet,5,Castform; Ditto; Cosmog; Tyrogue; Bounsweet
 Steenee,3,Castform; Ditto; Steenee
 Tsareena,3,Castform; Ceruledge; Tsareena
-Comfey,3,Castform; Rotom Heat; Comfey
+Comfey,3,Castform; Heat Rotom; Comfey
 Oranguru,3,Castform; Bellibolt; Oranguru
 Passimian,3,Castform; Revavroom; Passimian
 Wimpod,3,Castform; Poliwag; Wimpod
 Golisopod,3,Castform; Gourgeist Super Size; Golisopod
 Sandygast,2,Castform; Sandygast
 Palossand,3,Castform; Type: Null; Palossand
-Pyukumuku,3,Castform; Corsola Galarian; Pyukumuku
+Pyukumuku,3,Castform; Galarian Corsola; Pyukumuku
 Type: Null,2,Castform; Type: Null
 Silvally,4,Castform; Mew; Glalie; Silvally
-Minior Meteor Form,3,Castform; Corsola Galarian; Minior Meteor Form
+Minior Meteor Form,3,Castform; Galarian Corsola; Minior Meteor Form
 Minior Core Form,4,Castform; Boltund; Zoroark; Minior Core Form
 Komala,3,Castform; Flareon; Komala
 Turtonator,3,Castform; Spiritomb; Turtonator
@@ -931,28 +931,28 @@ Mimikyu,4,Castform; Lopunny; Hitmonchan; Mimikyu
 Bruxish,2,Castform; Bruxish
 Drampa,3,Castform; Bellibolt; Drampa
 Dhelmise,2,Castform; Dhelmise
-Jangmo-O,3,Castform; Ditto; Jangmo-O
-Hakamo-O,2,Castform; Hakamo-O
-Kommo-O,3,Castform; Mew; Kommo-O
+Jangmo-o,3,Castform; Ditto; Jangmo-o
+Hakamo-o,2,Castform; Hakamo-o
+Kommo-o,3,Castform; Mew; Kommo-o
 Tapu Koko,3,Castform; Darkrai; Tapu Koko
 Tapu Lele,3,Castform; Darkrai; Tapu Lele
 Tapu Bulu,3,Castform; Darkrai; Tapu Bulu
 Tapu Fini,3,Castform; Darkrai; Tapu Fini
 Cosmog,3,Castform; Ditto; Cosmog
-Cosmoem,3,Castform; Corsola Galarian; Cosmoem
-Solgaleo,4,Castform; Mew; Garchomp Mega; Solgaleo
+Cosmoem,3,Castform; Galarian Corsola; Cosmoem
+Solgaleo,4,Castform; Mew; Mega Garchomp; Solgaleo
 Lunala,3,Castform; Mew; Lunala
 Nihilego,3,Castform; Volcarona; Nihilego
 Buzzwole,4,Castform; Revavroom; Great Tusk; Buzzwole
 Pheromosa,3,Castform; Simisage; Pheromosa
-Xurkitree,4,Castform; Mew; Typhlosion Hisuian; Xurkitree
+Xurkitree,4,Castform; Mew; Hisuian Typhlosion; Xurkitree
 Celesteela,3,Castform; Type: Null; Celesteela
-Kartana,3,Castform; Qwilfish Hisuian; Kartana
+Kartana,3,Castform; Hisuian Qwilfish; Kartana
 Guzzlord,3,Castform; Seviper; Guzzlord
 Necrozma,3,Castform; Mew; Necrozma
-Necrozma Dusk Mane,4,Castform; Mew; Altaria Mega; Necrozma Dusk Mane
-Necrozma Dawn Wings,4,Castform; Mew; Altaria Mega; Necrozma Dawn Wings
-Necrozma Ultra,4,Castform; Mew; Landorus Incarnate Forme; Necrozma Ultra
+Dusk Mane Necrozma,4,Castform; Mew; Mega Altaria; Dusk Mane Necrozma
+Dawn Wings Necrozma,4,Castform; Mew; Mega Altaria; Dawn Wings Necrozma
+Ultra Necrozma,4,Castform; Mew; Landorus Incarnate Forme; Ultra Necrozma
 Magearna,3,Castform; Type: Null; Magearna
 Marshadow,3,Castform; Mew; Marshadow
 Poipole,3,Castform; Boltund; Poipole
@@ -977,8 +977,8 @@ Rookidee,4,Castform; Ditto; Bunnelby; Rookidee
 Corvisquire,4,Castform; Poliwag; Stunky; Corvisquire
 Corviknight,3,Castform; Gourgeist Super Size; Corviknight
 Blipbug,4,Castform; Ditto; Cosmog; Blipbug
-Dottler,3,Castform; Corsola Galarian; Dottler
-Orbeetle,3,Castform; Rotom Heat; Orbeetle
+Dottler,3,Castform; Galarian Corsola; Dottler
+Orbeetle,3,Castform; Heat Rotom; Orbeetle
 Nickit,4,Castform; Ditto; Hoppip; Nickit
 Thievul,2,Castform; Thievul
 Gossifleur,4,Castform; Ditto; Togepi; Gossifleur
@@ -1013,12 +1013,12 @@ Hatenna,4,Castform; Ditto; Cherubi; Hatenna
 Hattrem,3,Castform; Prinplup; Hattrem
 Hatterene,3,Castform; Spiritomb; Hatterene
 Impidimp,4,Castform; Ditto; Electrike; Impidimp
-Morgrem,3,Castform; Zorua Hisuian; Morgrem
+Morgrem,3,Castform; Hisuian Zorua; Morgrem
 Grimmsnarl,3,Castform; Exploud; Grimmsnarl
 Obstagoon,4,Castform; Ceruledge; Ogerpon; Obstagoon
 Perrserker,2,Castform; Perrserker
 Cursola,3,Castform; Flareon; Cursola
-Sirfetch'D,3,Castform; Marowak; Sirfetch'D
+Sirfetch'd,3,Castform; Marowak; Sirfetch'd
 Mr. Rime,3,Castform; Decidueye; Mr. Rime
 Runerigus,3,Castform; Marowak; Runerigus
 Milcery,4,Castform; Ditto; Cherubi; Milcery
@@ -1043,10 +1043,10 @@ Duraludon,2,Castform; Duraludon
 Dreepy,3,Castform; Poliwag; Dreepy
 Drakloak,3,Castform; Fletchinder; Drakloak
 Dragapult,3,Castform; Mew; Dragapult
-Zacian Hero Of Many Battles,3,Castform; Mew; Zacian Hero Of Many Battles
-Zacian Crowned Sword,4,Castform; Mew; Zacian Hero Of Many Battles; Zacian Crowned Sword
-Zamazenta Hero Of Many Battles,4,Castform; Mew; Zacian Hero Of Many Battles; Zamazenta Hero Of Many Battles
-Zamazenta Crowned Shield,4,Castform; Mew; Zacian Hero Of Many Battles; Zamazenta Crowned Shield
+Zacian Hero of Many Battles,3,Castform; Mew; Zacian Hero of Many Battles
+Zacian Crowned Sword,4,Castform; Mew; Zacian Hero of Many Battles; Zacian Crowned Sword
+Zamazenta Hero of Many Battles,4,Castform; Mew; Zacian Hero of Many Battles; Zamazenta Hero of Many Battles
+Zamazenta Crowned Shield,4,Castform; Mew; Zacian Hero of Many Battles; Zamazenta Crowned Shield
 Eternatus,4,Castform; Mew; Arceus; Eternatus
 Kubfu,3,Castform; Fletchinder; Kubfu
 Urshifu Single Strike Style,3,Castform; Revavroom; Urshifu Single Strike Style
@@ -1089,8 +1089,8 @@ Pawmi,4,Castform; Ditto; Fletchling; Pawmi
 Pawmo,4,Castform; Fletchinder; Ninjask; Pawmo
 Pawmot,2,Castform; Pawmot
 Tandemaus,3,Castform; Poliwag; Tandemaus
-Maushold Family Of Four,3,Castform; Maushold Family Of Three; Maushold Family Of Four
-Maushold Family Of Three,2,Castform; Maushold Family Of Three
+Maushold Family of Four,3,Castform; Maushold Family of Three; Maushold Family of Four
+Maushold Family of Three,2,Castform; Maushold Family of Three
 Fidough,3,Castform; Pumpkaboo Average Size; Fidough
 Dachsbun,3,Castform; Lopunny; Dachsbun
 Smoliv,4,Castform; Ditto; Cherubi; Smoliv
@@ -1126,7 +1126,7 @@ Tinkatink,4,Castform; Ditto; Hoothoot; Tinkatink
 Tinkatuff,3,Castform; Ledian; Tinkatuff
 Tinkaton,4,Castform; Iron Leaves; Leavanny; Tinkaton
 Wiglett,3,Castform; Poliwag; Wiglett
-Wugtrio,4,Castform; Dugtrio Alolan; Dugtrio; Wugtrio
+Wugtrio,4,Castform; Alolan Dugtrio; Dugtrio; Wugtrio
 Bombirdier,2,Castform; Bombirdier
 Finizen,2,Castform; Finizen
 Palafin Zero Form,2,Castform; Palafin Zero Form
@@ -1139,7 +1139,7 @@ Glimmet,3,Castform; Poltchageist; Glimmet
 Glimmora,3,Castform; Sigilyph; Glimmora
 Greavard,4,Castform; Ditto; Larvitar; Greavard
 Houndstone,4,Castform; Gourgeist Super Size; Barbaracle; Houndstone
-Flamigo,3,Castform; Samurott Hisuian; Flamigo
+Flamigo,3,Castform; Hisuian Samurott; Flamigo
 Cetoddle,3,Castform; Shellos; Cetoddle
 Cetitan,3,Castform; Zangoose; Cetitan
 Veluza,2,Castform; Veluza
@@ -1155,7 +1155,7 @@ Great Tusk,3,Castform; Revavroom; Great Tusk
 Scream Tail,3,Castform; Mandibuzz; Scream Tail
 Brute Bonnet,3,Castform; Type: Null; Brute Bonnet
 Flutter Mane,3,Castform; Mismagius; Flutter Mane
-Slither Wing,4,Castform; Mew; Malamar Mega; Slither Wing
+Slither Wing,4,Castform; Mew; Mega Malamar; Slither Wing
 Sandy Shocks,3,Castform; Mew; Sandy Shocks
 Iron Treads,2,Castform; Iron Treads
 Iron Bundle,2,Castform; Iron Bundle
@@ -1170,11 +1170,11 @@ Gimmighoul Chest Form,2,Castform; Gimmighoul Chest Form
 Gimmighoul Roaming Form,3,Castform; Frogadier; Gimmighoul Roaming Form
 Gholdengo,3,Castform; Sigilyph; Gholdengo
 Wo-Chien,3,Castform; Decidueye; Wo-Chien
-Chien-Pao,3,Castform; Samurott Hisuian; Chien-Pao
+Chien-Pao,3,Castform; Hisuian Samurott; Chien-Pao
 Ting-Lu,3,Castform; Gourgeist Super Size; Ting-Lu
-Chi-Yu,3,Castform; Medicham Mega; Chi-Yu
+Chi-Yu,3,Castform; Mega Medicham; Chi-Yu
 Roaring Moon,3,Castform; Ceruledge; Roaring Moon
-Iron Valiant,3,Castform; Samurott Hisuian; Iron Valiant
+Iron Valiant,3,Castform; Hisuian Samurott; Iron Valiant
 Koraidon,3,Castform; Mew; Koraidon
 Miraidon,3,Castform; Mew; Miraidon
 Walking Wake,4,Castform; Mew; Sandy Shocks; Walking Wake
@@ -1186,7 +1186,7 @@ Okidogi,3,Castform; Ceruledge; Okidogi
 Munkidori,3,Castform; Magmortar; Munkidori
 Fezandipiti,3,Castform; Iron Leaves; Fezandipiti
 Ogerpon,3,Castform; Ceruledge; Ogerpon
-Archaludon,3,Castform; Samurott Hisuian; Archaludon
+Archaludon,3,Castform; Hisuian Samurott; Archaludon
 Hydrapple,3,Castform; Type: Null; Hydrapple
 Gouging Fire,3,Castform; Ceruledge; Gouging Fire
 Raging Bolt,3,Castform; Mew; Raging Bolt
