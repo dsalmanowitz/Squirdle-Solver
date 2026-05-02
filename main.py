@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from rapidfuzz import process, fuzz, utils
 from re import sub
-from typing import Literal
+from typing import Literal, List
 
 class Feedback(Enum):
     DOWN = -2
@@ -13,12 +13,18 @@ class Feedback(Enum):
     RED = 2
     IGNORE = 3
 
+class GameMode(Enum):
+    CLASSIC = 0
+    STATS = 1
+
 class Squirdle():
 
-    def __init__(self):
-        self.full_dex = pd.read_csv('dex.csv').fillna('None')
+    def __init__(self, game_mode:GameMode=GameMode.CLASSIC):
+        self.game_mode = game_mode
+        file = 'stats.csv' if game_mode == GameMode.STATS else 'dex.csv'
+        self.full_dex = pd.read_csv(file).fillna('None')
         self.full_dex.index = self.full_dex['Name']
-        self.dex_dict = self.full_dex.to_dict('index')
+        self.n_args = 5 + (self.game_mode == GameMode.STATS)
     
     def run_game(self):
         self.dex = self.full_dex.copy()
@@ -43,7 +49,8 @@ class Squirdle():
             selection = self.guess()['Name']
             print('Pokemon Remaining:', len(self.dex))
             print('Best Guess:', selection, '\n')
-            print('Feedback: (Example: palkia up red yellow down green)')
+            example = 'palkia up red yellow down green' if self.game_mode == GameMode.CLASSIC else 'palkia down up up down down green'
+            print('Feedback: (Example:', example + ')')
         else:
             selection = self.guess()['Name'] if len(self.dex) else self.guesses[-1]
             print('Answer:', selection, '\n')
@@ -55,12 +62,12 @@ class Squirdle():
         if isinstance(feedback, int): # command triggered or error occurred
             self.guesses = self.guesses[:-1]
             return feedback
-        self.filter_dex(*feedback)
+        self.filter_dex(feedback)
 
     def parse_input(self, inp:str, game_over=False):
         args = inp.lower().split()
         # parse commands
-        if len(args) < 5:
+        if len(args) < self.n_args:
             if args[0] == 'undo':
                 self.undo()
             elif args[0] in ['quit', 'stop'] or (args[0] in ['n', 'no'] and game_over):
@@ -76,10 +83,10 @@ class Squirdle():
             return 0
         
         # parse name
-        elif len(args) > 5:
-            name = process.extract(' '.join(args[:-5]), pd.read_csv('dex.csv')['Name'], scorer=fuzz.token_sort_ratio, limit=1, processor=self.processor)[0]
+        elif len(args) > self.n_args:
+            name = process.extract(' '.join(args[:-self.n_args]), self.full_dex['Name'], scorer=fuzz.token_sort_ratio, limit=1, processor=self.processor)[0]
             if name[1] < 70:
-                print('Unknown Pokemon:', ' '.join(args[:-5]))
+                print('Unknown Pokemon:', ' '.join(args[:-self.n_args]))
                 self.guesses = self.guesses[:-1]
                 return -1
             name = name[0]
@@ -88,7 +95,7 @@ class Squirdle():
 
         # parse feedback
         feedback = [name]
-        for ix, i in enumerate(args[-5:]):
+        for i in args[-self.n_args:]:
             if i in ['', '-']:
                 feedback.append(Feedback.IGNORE)
             elif i in ['up', 'u', 'high', 'higher', 'above', 'great', 'greater']:
@@ -113,7 +120,7 @@ class Squirdle():
                 s += ' female'
             elif '♂' in s or s == 'nidoranm':
                 s += ' male'
-        s = sub(' (?:breed|form|forme|mask|family of|rider|strike style|shield|of many battles|sword|style|mode|cloak)', '', s)
+        s = sub(' (?:breed|form|forme|mask|family of|rider|strike style|shield|of many battles|sword|style|mode|cloak|face|size|mode)', '', s)
         return utils.default_process(s)
 
     def undo(self):
@@ -126,23 +133,21 @@ class Squirdle():
             print('Operation Failed: No Previous Saved State')
         return self.prev_dex is not None
 
-    def filter_dex(self, name:str=None, gen:Literal[Feedback.DOWN, Feedback.UP, Feedback.GREEN]=Feedback.IGNORE, 
-                   type1:Literal[Feedback.RED, Feedback.YELLOW, Feedback.GREEN]=Feedback.IGNORE, 
-                   type2:Literal[Feedback.RED, Feedback.YELLOW, Feedback.GREEN]=Feedback.IGNORE, 
-                   height:Literal[Feedback.DOWN, Feedback.UP, Feedback.GREEN]=Feedback.IGNORE, 
-                   weight:Literal[Feedback.DOWN, Feedback.UP, Feedback.GREEN]=Feedback.IGNORE):
+    def filter_dex(self, feedback=List[str|Feedback]):
         '''Filters dex according to feedback from game (ie red, yellow, green, up, down)'''
-
+        name = feedback[0]
+        feedback = feedback[1:]
         if name is not None:
             self.guesses[-1] = name
         self.prev_dex = self.dex.copy()
-        values = self.dex_dict[self.guesses[-1]]
+        values = self.full_dex.loc[self.guesses[-1]]
         self.dex = self.dex[self.dex['Name'] != values['Name']]
-        self.filter_num_col('Generation', values, gen)
-        self.filter_type_col('Type1', values, type1)
-        self.filter_type_col('Type2', values, type2)
-        self.filter_num_col('Height', values, height)
-        self.filter_num_col('Weight', values, weight)
+
+        for col, val in zip(list(self.full_dex)[1:], feedback):
+            if 'Type' in col:
+                self.filter_type_col(col, values, val)
+            else:
+                self.filter_num_col(col, values, val)
         return len(self.dex)
 
     def filter_num_col(self, col:str, vals:dict, feedback:Literal[Feedback.DOWN, Feedback.UP, Feedback.GREEN]):
@@ -171,26 +176,31 @@ class Squirdle():
         scores = self.generate_scores()
         selection = scores.iloc[0]
         self.guesses.append(selection['Name'])
-        return self.dex_dict[selection['Name']]
+        return self.full_dex.loc[selection['Name']]
     
     def generate_scores(self):
         '''Calculates distance scores for each available Pokemon and returns sorted dex'''
         dex = self.dex.copy()
-        for col in ['Generation', 'Height', 'Weight']:
+
+        cols = []
+        for col in [col for col in list(self.full_dex)[1:] if 'Type' not in col]:
             dex['_' + col] = dex[col] / dex[col].median()
+            cols.append('_' + col)
+        
+        if self.game_mode == GameMode.CLASSIC:
+            all_types = pd.concat([dex['Type1'], dex['Type2']])
+            type_scores = all_types.value_counts(True)
+            dex['type_score'] = (type_scores.loc[dex['Type1']] + type_scores.loc[dex['Type2']].values).values
+            dex['type_score'] /= dex['type_score'].max()
+            cols.append('type_score')
 
-        all_types = pd.concat([dex['Type1'], dex['Type2']])
-        type_scores = all_types.value_counts(True)
-        dex['type_score'] = (type_scores.loc[dex['Type1']] + type_scores.loc[dex['Type2']].values).values
-        dex['type_score'] /= dex['type_score'].max()
-
-        dist = dex[['_Generation', '_Height', '_Weight', 'type_score']].values - np.array([1, 1, 1, 1])
+        dist = dex[cols].values - np.ones(len(cols))
         dex['_distance'] = np.linalg.norm(dist, axis=1)
         dex.sort_values('_distance', inplace=True)
         return dex
     
     def print_dex(self, n:int=5):
-        print(self.generate_scores()[['Generation', 'Type1', 'Type2', 'Height', 'Weight', '_distance']][:n])
+        print(self.generate_scores()[[*list(self.full_dex)[1:], '_distance']][:n])
 
 if __name__ == '__main__':
     game = Squirdle()
