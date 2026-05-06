@@ -1,5 +1,6 @@
 import pandas as pd
 from main import *
+import sys
 
 class Simulation(Squirdle):
     def __init__(self, game_mode:GameMode=GameMode.CLASSIC):
@@ -49,7 +50,7 @@ class Simulation(Squirdle):
             return Feedback.YELLOW
 
 if __name__ == '__main__':
-    mode = GameMode.STATS
+    mode = GameMode.STATS if sys.argv[-1].lower() in ['stat', 'stats'] else GameMode.CLASSIC
     s = Simulation(mode)
     results = pd.DataFrame(columns=['Name', 'Num', 'Guesses'])
     for name in s.full_dex['Name']:

@@ -4,6 +4,7 @@ import pandas as pd
 from rapidfuzz import process, fuzz, utils
 from re import sub
 from typing import Literal, List
+import sys
 
 class Feedback(Enum):
     DOWN = -2
@@ -203,5 +204,6 @@ class Squirdle():
         print(self.generate_scores()[[*list(self.full_dex)[1:], '_distance']][:n])
 
 if __name__ == '__main__':
-    game = Squirdle()
+    mode = GameMode.STATS if sys.argv[-1].lower() in ['stat', 'stats'] else GameMode.CLASSIC
+    game = Squirdle(mode)
     game.run_game()
